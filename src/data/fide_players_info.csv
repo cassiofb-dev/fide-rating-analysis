@@ -1,0 +1,103 @@
+rank,name,fide_id,title,country,rating,games,birth_year
+1,"Carlsen, Magnus",1503014,g,NOR,2856,3,1990
+2,"Ding, Liren",8603677,g,CHN,2811,9,1992
+3,"Nepomniachtchi, Ian",4168119,g,RUS,2793,9,1990
+4,"Firouzja, Alireza",12573981,g,FRA,2785,8,2003
+5,"So, Wesley",5202213,g,USA,2774,8,1993
+6,"Nakamura, Hikaru",2016192,g,USA,2768,0,1987
+7,"Giri, Anish",24116068,g,NED,2764,0,1994
+8,"Caruana, Fabiano",2020009,g,USA,2763,8,1992
+9,"Anand, Viswanathan",5000017,g,IND,2756,0,1969
+10,"Aronian, Levon",13300474,g,USA,2755,9,1982
+11,"Rapport, Richard",738590,g,ROU,2754,0,1996
+12,"Dominguez Perez, Leinier",3503240,g,USA,2747,8,1983
+13,"Mamedyarov, Shakhriyar",13401319,g,AZE,2747,8,1985
+14,"Vachier-Lagrave, Maxime",623539,g,FRA,2747,8,1990
+15,"Karjakin, Sergey",14109603,g,RUS,2747,0,1990
+16,"Radjabov, Teimour",13400924,g,AZE,2747,0,1987
+17,"Grischuk, Alexander",4126025,g,RUS,2745,0,1983
+18,Gukesh D,46616543,g,IND,2732,7,2006
+19,"Duda, Jan-Krzysztof",1170546,g,POL,2731,0,1998
+20,"Andreikin, Dmitry",4158814,g,FID,2729,0,1990
+21,Erigaisi Arjun,35009192,g,IND,2728,8,2003
+22,"Le, Quang Liem",12401137,g,VIE,2728,0,1991
+23,"Topalov, Veselin",2900084,g,BUL,2728,0,1975
+24,"Wei, Yi",8603405,g,CHN,2722,6,1999
+25,"Vitiugov, Nikita",4152956,g,FID,2722,0,1987
+26,"Wang, Hao",8602883,g,CHN,2722,0,1989
+27,"Maghsoodloo, Parham",12539929,g,IRI,2721,0,2000
+28,"Yu, Yangyi",8603820,g,CHN,2718,0,1994
+29,"Harikrishna, Pentala",5007003,g,IND,2717,15,1986
+30,"Vallejo Pons, Francisco",2205530,g,ESP,2716,7,1982
+31,"Abdusattorov, Nodirbek",14204118,g,UZB,2713,0,2004
+32,"Shankland, Sam",2004887,g,USA,2712,0,1991
+33,"Sargissian, Gabriel",13300881,g,ARM,2711,0,1983
+34,"Vidit, Santosh Gujrathi",5029465,g,IND,2710,0,1994
+35,"Sjugirov, Sanan",4189302,g,RUS,2709,11,1993
+36,"Dubov, Daniil",24126055,g,RUS,2708,11,1996
+37,"Deac, Bogdan-Daniel",1226380,g,ROU,2707,9,2001
+38,"Artemiev, Vladislav",24101605,g,RUS,2701,11,1998
+39,"Keymer, Vincent",12940690,g,GER,2700,9,2004
+40,"Niemann, Hans Moke",2093596,g,USA,2699,9,2003
+41,"Bu, Xiangzhi",8601445,g,CHN,2698,11,1985
+42,"Eljanov, Pavel",14102951,g,UKR,2697,7,1983
+43,"Tomashevsky, Evgeny",4147235,g,RUS,2696,11,1987
+44,"Van Foreest, Jorden",1039784,g,NED,2694,6,1999
+45,"Wojtaszek, Radoslaw",1118358,g,POL,2693,8,1987
+46,"Alekseenko, Kirill",4135539,g,FID,2691,7,1997
+47,"Robson, Ray",2023970,g,USA,2690,0,1994
+48,"Xiong, Jeffery",2047640,g,USA,2690,0,2000
+49,"Cheparinov, Ivan",2905540,g,BUL,2689,7,1986
+50,"Adams, Michael",400041,g,ENG,2689,0,1971
+51,"Fedoseev, Vladimir",24130737,g,FID,2688,7,1995
+52,Praggnanandhaa R,25059530,g,IND,2687,9,2005
+53,"Nyzhnyk, Illya",14118084,g,UKR,2687,0,1996
+54,"Moussard, Jules",642908,g,FRA,2686,0,1995
+55,"Predke, Alexandr",24107581,g,FID,2684,9,1994
+56,"Sevian, Samuel",2040506,g,USA,2684,0,2000
+57,"Oparin, Grigoriy",24125890,g,USA,2683,0,1997
+58,"Svidler, Peter",4102142,g,RUS,2683,0,1976
+59,"Jakovenko, Dmitry",4122356,g,RUS,2682,0,1983
+60,"Santos Latasa, Jaime",2293307,g,ESP,2677,16,1996
+61,"Almasi, Zoltan",702293,g,HUN,2677,0,1976
+62,"Salem, A.R. Saleh",9301348,g,UAE,2677,0,1993
+63,"Navara, David",309095,g,CZE,2676,9,1985
+64,"Martirosyan, Haik M.",13306553,g,ARM,2675,10,2000
+65,"Kovalenko, Igor",14117908,g,UKR,2674,0,1988
+66,Nihal Sarin,25092340,g,IND,2673,7,2004
+67,"Korobov, Anton",14105730,g,UKR,2672,16,1985
+68,"Li, Chao b",8604436,g,CHN,2672,11,1989
+69,"Kasimdzhanov, Rustam",14200244,g,UZB,2670,0,1979
+70,"Esipenko, Andrey",24175439,g,FID,2668,11,2002
+71,"Gelfand, Boris",2805677,g,ISR,2668,0,1968
+72,"Saric, Ivan",14508150,g,CRO,2668,0,1990
+73,"Naiditsch, Arkadij",4650891,g,AZE,2667,17,1985
+74,"Ni, Hua",8601160,g,CHN,2667,10,1983
+75,"Amin, Bassem",10601457,g,EGY,2667,9,1988
+76,"Howell, David W L",410608,g,ENG,2667,0,1990
+77,"Najer, Evgeniy",4118987,g,RUS,2666,11,1977
+78,"Kamsky, Gata",2000024,g,USA,2666,0,1974
+79,Narayanan.S.L,5058422,g,IND,2663,17,1998
+80,"Yakubboev, Nodirbek",14203987,g,UZB,2663,10,2002
+81,"Matlakov, Maxim",4168003,g,RUS,2662,11,1991
+82,"Shirov, Alexei",2209390,g,ESP,2662,7,1972
+83,"Sarana, Alexey",24133795,g,FID,2662,0,2000
+84,"Guseinov, Gadir",13401378,g,AZE,2661,0,1986
+85,"Inarkiev, Ernesto",4162722,g,RUS,2661,0,1985
+86,"Sargsyan, Shant",13306766,g,ARM,2661,0,2002
+87,"Ma, Qun",8603154,g,CHN,2659,11,1991
+88,"Kryvoruchko, Yuriy",14109182,g,UKR,2658,15,1986
+89,"Tabatabaei, M. Amin",12521213,g,IRI,2657,16,2001
+90,"Tari, Aryan",1510045,g,NOR,2656,0,1999
+91,"Anton Guijarro, David",2285525,g,ESP,2655,7,1995
+92,"Sindarov, Javokhir",14205483,g,UZB,2654,10,2005
+93,"McShane, Luke J",404853,g,ENG,2653,5,1984
+94,"Swiercz, Dariusz",1126881,g,USA,2652,0,1994
+95,"Berkes, Ferenc",718572,g,HUN,2651,9,1985
+96,"Grandelius, Nils",1710400,g,SWE,2651,9,1993
+97,"Malakhov, Vladimir",4120787,g,FID,2651,0,1980
+98,"Bluebaum, Matthias",24651516,g,GER,2647,9,1997
+99,"Bacrot, Etienne",605506,g,FRA,2646,7,1983
+100,"Donchenko, Alexander",24603295,g,GER,2646,4,1998
+101,"Abasov, Nijat",13402960,g,AZE,2646,0,1995
+102,"Mamedov, Rauf",13401653,g,AZE,2646,0,1988

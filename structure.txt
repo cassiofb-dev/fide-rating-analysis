@@ -1,0 +1,18 @@
+.
+├── data
+│   └── fide_top_players_2022_10.json
+├── README.md
+├── requirements.txt
+├── src
+│   ├── data
+│   │   ├── fide_blitz_rating.csv
+│   │   ├── fide_classical_rating.csv
+│   │   ├── fide_players_info.csv
+│   │   └── fide_rapid_rating.csv
+│   ├── main.ipynb
+│   └── plots
+│       ├── road_to_super_gm
+│       └── road_to_super_gm_diff
+└── structure.txt
+
+6 directories, 9 files
